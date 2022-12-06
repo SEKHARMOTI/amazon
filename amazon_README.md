@@ -1,0 +1,6 @@
+  -->commit once you finish the work
+  -->Avoid merge commits
+  -->Don't commit Half-Done Work
+  -->Test your code before commit
+  -->Write Good Commit Message before you are commiting
+  -->Try to use git commands rather than GUI too
